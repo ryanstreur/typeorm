@@ -6,7 +6,7 @@
 
 ## What is `DataSource`
 
-Your interaction with the database is only possible once you setup a `DataSource`.
+Your interaction with the database is only possible once you set up a `DataSource`.
 TypeORM's `DataSource` holds your database connection settings and
 establishes initial database connection or connection pool depending on the RDBMS you use.
 
